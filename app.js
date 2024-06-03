@@ -1,3 +1,4 @@
+////RODANDO AQUI http://localhost:3000/post
 const express = require('express'); // Importa o Express para criar o servidor web
 const mongoose = require('mongoose'); // Importa o Mongoose para lidar com o MongoDB
 const aplicativo = express(); // Inicia uma instância do Express
